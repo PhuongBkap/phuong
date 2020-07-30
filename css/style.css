@@ -1,0 +1,39 @@
+.header{
+	padding: 10px 0;
+	background: #792b8e
+}
+.main{
+	margin-top: 15px
+}
+.panel{
+	border: none;
+}
+.panel-heading{
+	background: #792b8e !important
+}
+
+footer{
+	margin-top: 15px;
+	border-top: 5px solid  #792b8e;
+	padding: 15px 0;
+	color: #fff;
+	background: #efad1c
+}
+
+.avatar-img{
+	padding: 0;
+	margin-top: 15px
+}
+
+table.table tr td{
+	vertical-align: middle
+}
+table.table tr th.ct,
+table.table tr td.ct{
+	text-align: center
+}
+.jumbotron h1{
+	font-weight: bold;
+	font-size: 34px;
+	text-transform: uppercase
+}
